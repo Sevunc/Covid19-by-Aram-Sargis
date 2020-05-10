@@ -1,0 +1,25 @@
+.tablstl {
+  margin: auto;
+}
+.title {
+  font-size: 35px;
+  color: aliceblue;
+}
+.tdstyle {
+  background-color: orange;
+  border-radius: 10px;
+  width: 250px;
+  height: 30px;
+  font-size: 20px;
+}
+body {
+  background-color: blue;
+}
+.tdstyle:hover {
+  background-color: blue;
+  cursor: pointer;
+}
+.title:hover {
+  cursor: pointer;
+  font-size: 50px;
+}
