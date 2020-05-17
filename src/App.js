@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import Covid19 from "./Covid19/Covid19";
+import Page from "./Covid19/NewHoc";
 function App() {
   return (
     <div className="App">
-      <Covid19 />
+      <Page />
     </div>
   );
 }
