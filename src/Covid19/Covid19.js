@@ -13,6 +13,8 @@ function hoc(Component, api) {
         statistics: [],
       };
     }
+
+    console.log("a");
     componentDidMount() {
       axios
         .get(api)
